@@ -1,0 +1,26 @@
+{
+  "name": "prac-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samwong077/SIT725-2024-T1-prac5.git"
+  },
+  "author": "Sam Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samwong077/SIT725-2024-T1-prac5/issues"
+  },
+  "homepage": "https://github.com/Samwong077/SIT725-2024-T1-prac5#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "mongodb": "^6.5.0",
+    "socket.io": "^4.7.5"
+  }
+}
